@@ -60,6 +60,17 @@ Here is a list of file categories and their associated extensions that the File 
 ### Miscellaneous
 - Extensions: .dat, .bin, .jar, .dll, .so, .class
 
+## Prerequisites
+- Python 3.6+
+- Required Python packages (listed in `requirements.txt`)
+
+## Installation
+1. git clone git@github.com:Ascendrospyder/FileOrganiser.git
+2. cd FileOrganiser (change to project directory)
+3. pip install -r requirements.txt (install any packages)
+4. python main.py (run the script)
+
+
 ## How to Use
 
 1. Launch the File Organizer utility.
